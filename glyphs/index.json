@@ -1,0 +1,619 @@
+{
+  "fonts": [
+    {
+      "name": "Open Sans",
+      "license": "APACHE2",
+      "category": "SANS_SERIF",
+      "date_added": "2011-02-02",
+      "specimen": "https://fonts.google.com/specimen/Open+Sans",
+      "styles": [
+        {
+          "name": "Open Sans",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/OpenSans-Regular.ttf"
+        },
+        {
+          "name": "Open Sans Light Italic",
+          "style": "italic",
+          "weight": 300,
+          "path": "/glyphs/OpenSans-LightItalic.ttf"
+        },
+        {
+          "name": "Open Sans Semibold Italic",
+          "style": "italic",
+          "weight": 600,
+          "path": "/glyphs/OpenSans-SemiboldItalic.ttf"
+        },
+        {
+          "name": "Open Sans Italic",
+          "style": "italic",
+          "weight": 400,
+          "path": "/glyphs/OpenSans-Italic.ttf"
+        },
+        {
+          "name": "Open Sans Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/OpenSans-Bold.ttf"
+        },
+        {
+          "name": "Open Sans Light",
+          "style": "normal",
+          "weight": 300,
+          "path": "/glyphs/OpenSans-Light.ttf"
+        },
+        {
+          "name": "Open Sans Extrabold Italic",
+          "style": "italic",
+          "weight": 800,
+          "path": "/glyphs/OpenSans-ExtraBoldItalic.ttf"
+        },
+        {
+          "name": "Open Sans Semibold",
+          "style": "normal",
+          "weight": 600,
+          "path": "/glyphs/OpenSans-Semibold.ttf"
+        },
+        {
+          "name": "Open Sans Bold Italic",
+          "style": "italic",
+          "weight": 700,
+          "path": "/glyphs/OpenSans-BoldItalic.ttf"
+        },
+        {
+          "name": "Open Sans Extrabold",
+          "style": "normal",
+          "weight": 800,
+          "path": "/glyphs/OpenSans-ExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Open Sans Condensed",
+      "license": "APACHE2",
+      "category": "SANS_SERIF",
+      "date_added": "2011-05-09",
+      "specimen": "https://fonts.google.com/specimen/Open+Sans Condensed",
+      "styles": [
+        {
+          "name": "Open Sans Cond Light",
+          "style": "normal",
+          "weight": 300,
+          "path": "/glyphs/OpenSans-CondLight.ttf"
+        },
+        {
+          "name": "Open Sans Cond Light Italic",
+          "style": "italic",
+          "weight": 300,
+          "path": "/glyphs/OpenSans-CondLightItalic.ttf"
+        },
+        {
+          "name": "Open Sans Condensed Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/OpenSans-CondBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Roboto",
+      "license": "APACHE2",
+      "category": "SANS_SERIF",
+      "date_added": "2013-01-09",
+      "specimen": "https://fonts.google.com/specimen/Roboto",
+      "styles": [
+        {
+          "name": "Roboto Black",
+          "style": "normal",
+          "weight": 900,
+          "path": "/glyphs/Roboto-Black.ttf"
+        },
+        {
+          "name": "Roboto Thin Italic",
+          "style": "italic",
+          "weight": 100,
+          "path": "/glyphs/Roboto-ThinItalic.ttf"
+        },
+        {
+          "name": "Roboto Black Italic",
+          "style": "italic",
+          "weight": 900,
+          "path": "/glyphs/Roboto-BlackItalic.ttf"
+        },
+        {
+          "name": "Roboto Thin",
+          "style": "normal",
+          "weight": 100,
+          "path": "/glyphs/Roboto-Thin.ttf"
+        },
+        {
+          "name": "Roboto Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/Roboto-Bold.ttf"
+        },
+        {
+          "name": "Roboto Light",
+          "style": "normal",
+          "weight": 300,
+          "path": "/glyphs/Roboto-Light.ttf"
+        },
+        {
+          "name": "Roboto Medium Italic",
+          "style": "italic",
+          "weight": 500,
+          "path": "/glyphs/Roboto-MediumItalic.ttf"
+        },
+        {
+          "name": "Roboto Medium",
+          "style": "normal",
+          "weight": 500,
+          "path": "/glyphs/Roboto-Medium.ttf"
+        },
+        {
+          "name": "Roboto Italic",
+          "style": "italic",
+          "weight": 400,
+          "path": "/glyphs/Roboto-Italic.ttf"
+        },
+        {
+          "name": "Roboto",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/Roboto-Regular.ttf"
+        },
+        {
+          "name": "Roboto Bold Italic",
+          "style": "italic",
+          "weight": 700,
+          "path": "/glyphs/Roboto-BoldItalic.ttf"
+        },
+        {
+          "name": "Roboto Light Italic",
+          "style": "italic",
+          "weight": 300,
+          "path": "/glyphs/Roboto-LightItalic.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Roboto Condensed",
+      "license": "APACHE2",
+      "category": "SANS_SERIF",
+      "date_added": "2012-06-26",
+      "specimen": "https://fonts.google.com/specimen/Roboto+Condensed",
+      "styles": [
+        {
+          "name": "Roboto Condensed Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/RobotoCondensed-Bold.ttf"
+        },
+        {
+          "name": "Roboto Condensed Light Italic",
+          "style": "italic",
+          "weight": 300,
+          "path": "/glyphs/RobotoCondensed-LightItalic.ttf"
+        },
+        {
+          "name": "Roboto Condensed Bold Italic",
+          "style": "italic",
+          "weight": 700,
+          "path": "/glyphs/RobotoCondensed-BoldItalic.ttf"
+        },
+        {
+          "name": "Roboto Condensed Light",
+          "style": "normal",
+          "weight": 300,
+          "path": "/glyphs/RobotoCondensed-Light.ttf"
+        },
+        {
+          "name": "Roboto Condensed Italic",
+          "style": "italic",
+          "weight": 400,
+          "path": "/glyphs/RobotoCondensed-Italic.ttf"
+        },
+        {
+          "name": "Roboto Condensed",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/RobotoCondensed-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Roboto Mono",
+      "license": "APACHE2",
+      "category": "MONOSPACE",
+      "date_added": "2015-05-13",
+      "specimen": "https://fonts.google.com/specimen/Roboto+Mono",
+      "styles": [
+        {
+          "name": "Roboto Mono Thin",
+          "style": "normal",
+          "weight": 100,
+          "path": "/glyphs/RobotoMono-Thin.ttf"
+        },
+        {
+          "name": "Roboto Mono Medium",
+          "style": "normal",
+          "weight": 500,
+          "path": "/glyphs/RobotoMono-Medium.ttf"
+        },
+        {
+          "name": "Roboto Mono Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/RobotoMono-Bold.ttf"
+        },
+        {
+          "name": "Roboto Mono",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/RobotoMono-Regular.ttf"
+        },
+        {
+          "name": "Roboto Mono Bold Italic",
+          "style": "italic",
+          "weight": 700,
+          "path": "/glyphs/RobotoMono-BoldItalic.ttf"
+        },
+        {
+          "name": "Roboto Mono Light Italic",
+          "style": "italic",
+          "weight": 300,
+          "path": "/glyphs/RobotoMono-LightItalic.ttf"
+        },
+        {
+          "name": "Roboto Mono Medium Italic",
+          "style": "italic",
+          "weight": 500,
+          "path": "/glyphs/RobotoMono-MediumItalic.ttf"
+        },
+        {
+          "name": "Roboto Mono Italic",
+          "style": "italic",
+          "weight": 400,
+          "path": "/glyphs/RobotoMono-Italic.ttf"
+        },
+        {
+          "name": "Roboto Mono Thin Italic",
+          "style": "italic",
+          "weight": 100,
+          "path": "/glyphs/RobotoMono-ThinItalic.ttf"
+        },
+        {
+          "name": "Roboto Mono Light",
+          "style": "normal",
+          "weight": 300,
+          "path": "/glyphs/RobotoMono-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Roboto Slab",
+      "license": "APACHE2",
+      "category": "SERIF",
+      "date_added": "2013-04-10",
+      "specimen": "https://fonts.google.com/specimen/Roboto+Slab",
+      "styles": [
+        {
+          "name": "Roboto Slab Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/RobotoSlab-Bold.ttf"
+        },
+        {
+          "name": "Roboto Slab Thin",
+          "style": "normal",
+          "weight": 100,
+          "path": "/glyphs/RobotoSlab-Thin.ttf"
+        },
+        {
+          "name": "Roboto Slab Regular",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/RobotoSlab-Regular.ttf"
+        },
+        {
+          "name": "Roboto Slab Light",
+          "style": "normal",
+          "weight": 300,
+          "path": "/glyphs/RobotoSlab-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Gentium Basic",
+      "license": "OFL",
+      "category": "SERIF",
+      "date_added": "2011-07-20",
+      "specimen": "https://fonts.google.com/specimen/Gentium+Basic",
+      "styles": [
+        {
+          "name": "Gentium Basic Bold Italic",
+          "style": "italic",
+          "weight": 700,
+          "path": "/glyphs/GenBasBI.ttf"
+        },
+        {
+          "name": "Gentium Basic Italic",
+          "style": "italic",
+          "weight": 400,
+          "path": "/glyphs/GenBasI.ttf"
+        },
+        {
+          "name": "Gentium Basic",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/GenBasR.ttf"
+        },
+        {
+          "name": "Gentium Basic Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/GenBasB.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Libre Baskerville",
+      "license": "OFL",
+      "category": "SERIF",
+      "date_added": "2012-11-30",
+      "specimen": "https://fonts.google.com/specimen/Libre+Baskerville",
+      "styles": [
+        {
+          "name": "Libre Baskerville Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/LibreBaskerville-Bold.ttf"
+        },
+        {
+          "name": "Libre Baskerville",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/LibreBaskerville-Regular.ttf"
+        },
+        {
+          "name": "Libre Baskerville Italic",
+          "style": "italic",
+          "weight": 400,
+          "path": "/glyphs/LibreBaskerville-Italic.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Lora",
+      "license": "OFL",
+      "category": "SERIF",
+      "date_added": "2011-07-06",
+      "specimen": "https://fonts.google.com/specimen/Lora",
+      "styles": [
+        {
+          "name": "Lora Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/Lora-Bold.ttf"
+        },
+        {
+          "name": "Lora Bold Italic",
+          "style": "italic",
+          "weight": 700,
+          "path": "/glyphs/Lora-BoldItalic.ttf"
+        },
+        {
+          "name": "Lora Italic",
+          "style": "italic",
+          "weight": 400,
+          "path": "/glyphs/Lora-Italic.ttf"
+        },
+        {
+          "name": "Lora",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/Lora-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Monda",
+      "license": "OFL",
+      "category": "SANS_SERIF",
+      "date_added": "2012-11-30",
+      "specimen": "https://fonts.google.com/specimen/Monda",
+      "styles": [
+        {
+          "name": "Monda Regular",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/Monda-Regular.ttf"
+        },
+        {
+          "name": "Monda Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/Monda-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Muli",
+      "license": "OFL",
+      "category": "SANS_SERIF",
+      "date_added": "2011-05-25",
+      "specimen": "https://fonts.google.com/specimen/Muli",
+      "styles": [
+        {
+          "name": "Muli Light Italic",
+          "style": "italic",
+          "weight": 300,
+          "path": "/glyphs/Muli-LightItalic.ttf"
+        },
+        {
+          "name": "Muli",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/Muli-Regular.ttf"
+        },
+        {
+          "name": "Muli Light",
+          "style": "normal",
+          "weight": 300,
+          "path": "/glyphs/Muli-Light.ttf"
+        },
+        {
+          "name": "Muli Italic",
+          "style": "italic",
+          "weight": 400,
+          "path": "/glyphs/Muli-Italic.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans",
+      "license": "OFL",
+      "category": "SANS_SERIF",
+      "date_added": "2013-02-27",
+      "specimen": "https://fonts.google.com/specimen/Noto+Sans",
+      "styles": [
+        {
+          "name": "Noto Sans Bold Italic",
+          "style": "italic",
+          "weight": 700,
+          "path": "/glyphs/NotoSans-BoldItalic.ttf"
+        },
+        {
+          "name": "Noto Sans Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/NotoSans-Bold.ttf"
+        },
+        {
+          "name": "Noto Sans Italic",
+          "style": "italic",
+          "weight": 400,
+          "path": "/glyphs/NotoSans-Italic.ttf"
+        },
+        {
+          "name": "Noto Sans",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/NotoSans-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif",
+      "license": "OFL",
+      "category": "SERIF",
+      "date_added": "2013-02-27",
+      "specimen": "https://fonts.google.com/specimen/Noto+Serif",
+      "styles": [
+        {
+          "name": "Noto Serif Italic",
+          "style": "italic",
+          "weight": 400,
+          "path": "/glyphs/NotoSerif-Italic.ttf"
+        },
+        {
+          "name": "Noto Serif Bold Italic",
+          "style": "italic",
+          "weight": 700,
+          "path": "/glyphs/NotoSerif-BoldItalic.ttf"
+        },
+        {
+          "name": "Noto Serif",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/NotoSerif-Regular.ttf"
+        },
+        {
+          "name": "Noto Serif Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/NotoSerif-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Playfair Display",
+      "license": "OFL",
+      "category": "SERIF",
+      "date_added": "2011-11-16",
+      "specimen": "https://fonts.google.com/specimen/Playfair+Display",
+      "styles": [
+        {
+          "name": "Playfair Display",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/PlayfairDisplay-Regular.ttf"
+        },
+        {
+          "name": "Playfair Display Black Italic",
+          "style": "italic",
+          "weight": 900,
+          "path": "/glyphs/PlayfairDisplay-BlackItalic.ttf"
+        },
+        {
+          "name": "Playfair Display Bold Italic",
+          "style": "italic",
+          "weight": 700,
+          "path": "/glyphs/PlayfairDisplay-BoldItalic.ttf"
+        },
+        {
+          "name": "Playfair Display Italic",
+          "style": "italic",
+          "weight": 400,
+          "path": "/glyphs/PlayfairDisplay-Italic.ttf"
+        },
+        {
+          "name": "Playfair Display Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/PlayfairDisplay-Bold.ttf"
+        },
+        {
+          "name": "Playfair Display Black",
+          "style": "normal",
+          "weight": 900,
+          "path": "/glyphs/PlayfairDisplay-Black.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Vollkorn",
+      "license": "OFL",
+      "category": "SERIF",
+      "date_added": "2010-09-08",
+      "specimen": "https://fonts.google.com/specimen/Vollkorn",
+      "styles": [
+        {
+          "name": "Vollkorn Italic",
+          "style": "italic",
+          "weight": 400,
+          "path": "/glyphs/Vollkorn-Italic.ttf"
+        },
+        {
+          "name": "Vollkorn Regular",
+          "style": "normal",
+          "weight": 400,
+          "path": "/glyphs/Vollkorn-Regular.ttf"
+        },
+        {
+          "name": "Vollkorn Bold",
+          "style": "normal",
+          "weight": 700,
+          "path": "/glyphs/Vollkorn-Bold.ttf"
+        },
+        {
+          "name": "Vollkorn Bold Italic",
+          "style": "italic",
+          "weight": 700,
+          "path": "/glyphs/Vollkorn-BoldItalic.ttf"
+        }
+      ]
+    }
+  ]
+}
